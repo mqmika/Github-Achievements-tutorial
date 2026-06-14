@@ -55,7 +55,7 @@ Bu rozetleri, GitHub üzerindeki günlük aktivitelerinizle (Pull Request açmak
 
 ---
 
-## ✨ Öne Çıkan Rozetler (Highlights Badges)
+## ✨ Highlights Badges
 
 Bu rozetler, GitHub platformundaki özel statüleri ve katılımları temsil eder ve profilinizin sol alt köşesinde listelenir.
 

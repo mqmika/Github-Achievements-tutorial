@@ -68,7 +68,7 @@ Bu rozetler, GitHub platformundaki özel statüleri ve katılımları temsil ede
 
 ---
 
-## ❌ Artık Alınamayan Rozetler (Limited rozetler)
+## ❌ Artık Alınamayan Rozetler Limited rozetler
 
 Bu rozetler belirli geçmiş etkinlikler için verilmiştir ve şu an yenileri kazanılamaz:
 

@@ -72,6 +72,7 @@ These badges represent special statuses and participation on the GitHub platform
 
 ---
 
+## ❌ No Longer Earnable Badges LİMİTED
 
 These badges were awarded for specific past events and new ones cannot be earned currently:
 
